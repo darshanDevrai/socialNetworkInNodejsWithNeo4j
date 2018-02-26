@@ -1,0 +1,17 @@
+{
+  "name": "tak",
+  "version": "1.0.0",
+  "description": "Social Network backend with node.js and neo4j",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darshanDevrai",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.16.0",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "neo4j-driver": "^1.1.0-M03"
+  }
+}
